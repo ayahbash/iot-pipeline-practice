@@ -1,0 +1,27 @@
+<well>
+    <name>Well-01</name>
+    <location>
+        <lat>29.5</lat>
+        <lon>-95.0</lon>
+    </location>
+    <logs>
+        <log>
+            <type>Pressure</type>
+            <unit>psi</unit>
+            <values>
+                <value>1500</value>
+                <value>1520</value>
+                <value>1490</value>
+            </values>
+        </log>
+        <log>
+            <type>Temperature</type>
+            <unit>°C</unit>
+            <values>
+                <value>80</value>
+                <value>82</value>
+                <value>79</value>
+            </values>
+        </log>
+    </logs>
+</well>
