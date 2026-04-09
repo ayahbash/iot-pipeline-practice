@@ -12,7 +12,4 @@ practice repo for building and testing parts of an iot data pipeline for an inte
 ├── mqtt/
 │   └── publisher.py & subscriber.py for mqtt data communication
 ```
-
-- components are developed separately
-- will be integrated into a complete pipeline later
 - dashboards are reusable templates
